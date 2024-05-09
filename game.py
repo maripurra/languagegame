@@ -42,6 +42,8 @@ print("Your age is: {}".format(age))
 
 if age > 34:
     print ("You are so old")
+elif age == 33:
+    print("WOW")
 else:
     print ("You are still young")
 
